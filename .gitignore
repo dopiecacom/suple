@@ -92,7 +92,6 @@ themes/default-bootstrap/modules/*/mails/*
 /web/bundles/
 /web/css/
 /web/js/
-/var/
 
 
 # Created by https://www.gitignore.io/api/linux,osx,windows,sublimetext,phpstorm
