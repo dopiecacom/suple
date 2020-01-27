@@ -1,4 +1,4 @@
-app/config/# Cache, temp and personal files
+# Cache, temp and personal files
 
 /.htaccess
 *.log
